@@ -5,7 +5,7 @@ Programa "Visko Po Truputį" mokymosi tikslais.
 - SQLITE3 duomenų bazė
 - Datų skaičiavimas (timedelta)
 - Mini žaidimas (Akmuo, popierius, žirklės)
-- Užblokuotų žmonių statistikos rinkimas: ![amxbans](http://gungan.lt/amxbans/ban_list.php)
+- Užblokuotų žmonių statistikos rinkimas: http://gungan.lt/amxbans/ban_list.php
 
 ## DEMO nuotraukos
 ![DEMO. VPT MAIN](https://img001.prntscr.com/file/img001/B_lBvuYPSK2nOs9VtgGcuw.png)
